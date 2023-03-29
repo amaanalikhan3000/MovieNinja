@@ -1,4 +1,26 @@
-# MovieNinja 
+# MovieNinja & CI/CD Pipeline using GitHub Actions
+
+
+
+## Steps
+
+Step 1: Set up a GitHub repository
+Step 2: Add a workflow file
+Step 3: Define the steps for your CI/CD pipeline
+    This workflow file does the following:
+
+    Listens for a push to the main branch of the repository
+    Runs on an Ubuntu machine
+    Checks out the source code
+    Runs tests using npm
+    Builds the code using npm
+    Deploys the code to a production environment using Google Cloud Platform
+
+Step 4: Run your CI/CD pipeline
+
+Check & Wait for the status badge (Green tick) and you are done  ✅
+
+
 ## Features	:briefcase:
 - [x] listing movies from movie api
 - [x] search movies by title
