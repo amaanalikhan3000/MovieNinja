@@ -1,4 +1,4 @@
-# MovieNinja
+# MovieNinja 
 ## Features	:briefcase:
 - [x] listing movies from movie api
 - [x] search movies by title
