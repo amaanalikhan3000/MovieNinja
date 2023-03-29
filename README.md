@@ -5,7 +5,9 @@
 ## Steps
 
 Step 1: Set up a GitHub repository
+
 Step 2: Add a workflow file
+
 Step 3: Define the steps for your CI/CD pipeline
     This workflow file does the following:
 
